@@ -8,4 +8,8 @@ import { Component } from '@angular/core';
 export class HeaderComponent {
   Title:string = 'My Task List';
 
+  toggleAddTask(){
+    
+  }
+
 }
