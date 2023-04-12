@@ -9,7 +9,7 @@ export class HeaderComponent {
   Title:string = 'My Task List';
 
   toggleAddTask(){
-    
+    console.log("toggleAddTask!");
   }
 
 }
